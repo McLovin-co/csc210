@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2025-03-30T05:53:03.952682855</meta:creation-date><meta:generator>LibreOffice/25.2.5.2$Linux_X86_64 LibreOffice_project/03d19516eb2e1dd5d4ccd751a0d6f35f35e08022</meta:generator><dc:date>2025-11-16T08:39:57.368462140</dc:date><meta:editing-duration>P6DT14H26M46S</meta:editing-duration><meta:editing-cycles>50</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="62" meta:word-count="1353" meta:character-count="8429" meta:non-whitespace-character-count="6885"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">123</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">24061</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15065</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3530</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">5678</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">123</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24059</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">15187</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">150</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompGridMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MinRowHeightInclBorder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoClippingWithWrapPolygon" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1251509</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2452969</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3465in" style:type="center"/>
+     <style:tab-stop style:position="6.6929in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3465in" style:type="center"/>
+     <style:tab-stop style:position="6.6929in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3465in" style:type="center"/>
+     <style:tab-stop style:position="6.6929in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <loext:theme loext:name="Office">
+   <loext:theme-colors loext:name="LibreOffice">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#000000"/>
+    <loext:color loext:name="light2" loext:color="#ffffff"/>
+    <loext:color loext:name="accent1" loext:color="#18a303"/>
+    <loext:color loext:name="accent2" loext:color="#0369a3"/>
+    <loext:color loext:name="accent3" loext:color="#a33e03"/>
+    <loext:color loext:name="accent4" loext:color="#8e03a3"/>
+    <loext:color loext:name="accent5" loext:color="#c99c00"/>
+    <loext:color loext:name="accent6" loext:color="#c9211e"/>
+    <loext:color loext:name="hyperlink" loext:color="#0000ee"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#551a8b"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
+   <style:text-properties officeooo:rsid="0014e1bf" officeooo:paragraph-rsid="0014e1bf"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" officeooo:rsid="0015a6a8" officeooo:paragraph-rsid="0015a6a8" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0015a6a8" officeooo:paragraph-rsid="0015a6a8"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" officeooo:rsid="0015a6a8" officeooo:paragraph-rsid="0015a6a8" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001911bb" officeooo:paragraph-rsid="001911bb"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00185097" officeooo:paragraph-rsid="00185097" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="001eec6f" officeooo:paragraph-rsid="001eec6f" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="001f6272" officeooo:paragraph-rsid="001f6272" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="001f6272" officeooo:paragraph-rsid="00185097" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0015a6a8" officeooo:paragraph-rsid="00185097"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001f6272" officeooo:paragraph-rsid="001f6272"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00204050" officeooo:paragraph-rsid="00204050"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00206929" officeooo:paragraph-rsid="00206929"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0021c4df" officeooo:paragraph-rsid="0021c4df"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0023288f" officeooo:paragraph-rsid="0023288f"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001da8cc" officeooo:paragraph-rsid="001da8cc"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00256de9"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="001ce80f"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00179e51"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-family="mono" style:font-pitch="fixed" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-family="mono" style:font-pitch="fixed" fo:font-size="8pt" officeooo:rsid="00256de9" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="001f6272"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00206929"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="0023288f"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="001f6272" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0023288f" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="00204050"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="00220935"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="001da8cc"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-family="mono" style:font-pitch="fixed" fo:font-size="8pt" officeooo:rsid="001da8cc" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-family="mono" style:font-pitch="fixed" fo:font-size="8pt" officeooo:rsid="0024c730" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="001eec6f"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="0024c730"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.1965in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.1965in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P1">Name__________________<text:tab/><text:tab/>CSC 210 Java II</text:p>
+    <text:p text:style-name="P1">Due: <text:span text:style-name="T1">23</text:span> <text:span text:style-name="T1">November</text:span> 2025<text:tab/><text:tab/><text:span text:style-name="T1">Fall</text:span> 2025</text:p>
+   </style:header>
+   <style:footer>
+    <text:p text:style-name="Footer"><text:tab/><text:tab/><text:span text:style-name="T2">Page </text:span><text:span text:style-name="T2"><text:page-number text:select-page="current">2</text:page-number></text:span><text:span text:style-name="T2"><text:s/>of </text:span><text:span text:style-name="T2"><text:page-count>3</text:page-count></text:span></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P2">Lab 0<text:span text:style-name="T1">9</text:span>: <text:s/>Streaming Data</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P4">Setting Up</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3">1. Download the zip file for lab-0<text:span text:style-name="T1">9</text:span> on Brightspace.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3">2. <text:span text:style-name="T3">Unzip the file to a nice working directory where you usually do your work</text:span></text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3">3. <text:span text:style-name="T3">Enter the unzipped directory. Consider loading it in Visual Studio Code, Eclipse, </text:span><text:span text:style-name="T1">Intellij, </text:span><text:span text:style-name="T3">or the terminal</text:span></text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P5">4. Review the<text:span text:style-name="T4"> overview-</text:span><text:span text:style-name="T5">lab-09</text:span><text:span text:style-name="T4">.pdf </text:span>to make sure you understand the concepts of population growth using the logistic map <text:span text:style-name="T1">for both discrete and continuous population models as well as for what happens to these models when more than two species are added to the system</text:span>. <text:span text:style-name="T1">You need not be incredibly proficient with differential equations and their calculations. It is entirely normal to build programs for systems with information inside of them that you don’t entirely understand, but if you are familiar, feel free to enjoy working through the equations.</text:span></text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P6">Exploring the Code Examples</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P7">5. Review the program CircleDisplay.java. <text:span text:style-name="T6">Compile and run it. </text:span>Make sure you understand how the constructor and the paintComponent method are used by the main function to make the program work.</text:p>
+   <text:p text:style-name="P7"><text:s text:c="2"/>a. What is CircleDisplay() doing?<text:line-break/> <text:s/>b. When/how often does paintComponent() run?</text:p>
+   <text:p text:style-name="P7"><text:s text:c="2"/>c. What is the JPanel class from which CircleDisplay inherits? Look up its official Java documentation online.</text:p>
+   <text:p text:style-name="P7"><text:s text:c="3"/><text:span text:style-name="T7">d. Alter the color and size of the circle and compile and run the program.</text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P7">6. <text:span text:style-name="T6">Review the program ContinuousLogisticGrowth. Compile and run it. Adjust the initial values of the formula to learn how this continuous model behaves in contrast to the discrete model. </text:span><text:span text:style-name="T8">You may use the program InteractiveLogisticGrowth.java to make iterating on changing the initial values faster.</text:span></text:p>
+   <text:p text:style-name="P8"><text:s text:c="2"/>a. What term makes this function different from the traditional exponential growth function?</text:p>
+   <text:p text:style-name="P8"><text:s text:c="2"/>b. When you adjust the initial values, do you find the behavior of this growth model to be unpredictable and chaotic like its discrete cousin?</text:p>
+   <text:p text:style-name="P8"><text:s text:c="3"/>c. Does the population always converge to a value?<text:line-break/> <text:s text:c="2"/>d. Does the population ever collapse?</text:p>
+   <text:p text:style-name="P6"><text:s text:c="3"/><text:span text:style-name="T9">e. Does the population ever hit a run away exponential growth explosion to infinity?<text:line-break/> <text:s text:c="2"/></text:span><text:span text:style-name="T10">f. Compare what you see in this program with what is output by the program RabbitDiscreteSimulationGUI.java</text:span></text:p>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P8">7. Compile and run the SierpinskiTriangle.java program.</text:p>
+   <text:p text:style-name="P8"><text:s text:c="3"/>a. How is the program able to draw the same pattern at ever smaller scales over and over again.</text:p>
+   <text:p text:style-name="P6"><text:s text:c="3"/><text:span text:style-name="T9">b. What function is responsible for the shape of any particular triangle (not painting)?</text:span></text:p>
+   <text:p text:style-name="P9"><text:s text:c="3"/>c. What function is responsible for the shape of the entire image?</text:p>
+   <text:p text:style-name="P10"><text:soft-page-break/><text:s text:c="3"/><text:span text:style-name="T6">d. In what way is the recursive nature of drawing this triangle similar to the discrete logistic map function?</text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11">8. Looks at the programs RandomHexPrinter.java and RawRandomHex<text:span text:style-name="T11">S</text:span>treamer.java. Compile and run each in order. You may need to press CTRL-C to stop the second program from running.</text:p>
+   <text:p text:style-name="P11"><text:s text:c="4"/>a. What are these programs doing?</text:p>
+   <text:p text:style-name="P11"><text:s text:c="4"/>b. How are these program getting their randomness?</text:p>
+   <text:p text:style-name="P11"><text:s text:c="4"/>c. Is the randomness truly random?</text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T6">d. Based on what you see here, write a simple program named GetWebPage.java that retur</text:span><text:span text:style-name="T11">ns </text:span><text:a xlink:type="simple" xlink:href="http://www.java.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">www.java.com</text:span></text:a></text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P12">9. Compile and run the program CarrotGenerator.java. Review the code.</text:p>
+   <text:p text:style-name="P12"><text:s text:c="4"/>a. Are the random numbers generated by this program random or pseudorandom?</text:p>
+   <text:p text:style-name="P12"><text:s text:c="4"/>b. What do the random values get used as in the Carrot model?</text:p>
+   <text:p text:style-name="P12"><text:s text:c="4"/>c. How often does the timer execute?<text:line-break/> <text:s text:c="3"/>d. What code executes when the timer goes off?</text:p>
+   <text:p text:style-name="P10"><text:s text:c="4"/><text:span text:style-name="T11">e. What variable keeps track of all of the Carrots?</text:span></text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P12">10. Compile and run the RabbitsMover.java program. Review the code.</text:p>
+   <text:p text:style-name="P12"><text:s text:c="5"/>a. When a rabbit is created in this program, what determines its starting location?</text:p>
+   <text:p text:style-name="P12"><text:s text:c="5"/>b. What line of code initializes the rabbit’s velocity?</text:p>
+   <text:p text:style-name="P12"><text:s text:c="5"/>c. <text:s/>How many times per second are the positions of rabbits updated to the screen?</text:p>
+   <text:p text:style-name="P10"><text:s text:c="5"/><text:span text:style-name="T11">d. What function updates a rabbit’s position?</text:span></text:p>
+   <text:p text:style-name="P10"><text:s text:c="5"/><text:span text:style-name="T11">e. How do the rabbits know to bounce off the walls? Temporarily take out the code that does this and compile and run the program to prove that you are right.</text:span></text:p>
+   <text:p text:style-name="P10"><text:s text:c="5"/><text:span text:style-name="T11">f. Adjust the program so that the balls move really fast or really slow. Compile and run it.</text:span></text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P12">11. <text:span text:style-name="T7">Compile and run the WolfMover.java program. Review the code.</text:span></text:p>
+   <text:p text:style-name="P12"><text:s text:c="4"/><text:span text:style-name="T7">a. How often does the program update the position of the wolf? What code determines this?</text:span></text:p>
+   <text:p text:style-name="P12"><text:s text:c="4"/><text:span text:style-name="T7">b. In the constructor of WolfMover, what code enables keyboard input to be captured?</text:span></text:p>
+   <text:p text:style-name="P12"><text:s text:c="4"/><text:span text:style-name="T7">c. What method does the timer execute on WolfMover every time the timer goes off?</text:span></text:p>
+   <text:p text:style-name="P10"><text:s text:c="4"/><text:span text:style-name="T7">d. Change the code in the following way:<text:line-break/> <text:s text:c="7"/>- make the wolf faster <text:line-break/> <text:s text:c="7"/>- make the wolf bigger <text:line-break/> <text:s text:c="7"/>- change the color of the wolf <text:line-break/> <text:s text:c="7"/>- invert the controls so that pressing the left arrow key goes right and the left arrow key goes left, up goes down, and down goes up. <text:line-break/> <text:s text:c="7"/>- recompile and run the program.</text:span></text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P13">12. Run the programs SpriteLoader.java, SpriteLoader2.java, and SpriteAnimationPanel.java. Review the code.<text:line-break/> <text:s text:c="3"/>a. Notice how the image is loaded in SpriteLoader.java. What is the type of the variable that holds the image data?<text:line-break/> <text:s text:c="3"/>b. Where is the image that is loaded and what is it a picture of?<text:line-break/> <text:s text:c="3"/>c. In SpriteLoader2.java notice the code that runs to actually paint the sprite on the screen. What is the type of the variable that is actually loaded onto the window to be painted?</text:p>
+   <text:p text:style-name="P10"><text:soft-page-break/><text:s text:c="4"/><text:span text:style-name="T7">d. Change the name of the file being loaded in the second program to “resources/spriteSheet.png” and recompile and run the program. What do you see?<text:line-break/> <text:s text:c="3"/>e. <text:s/>Notice when running the SpriteAnimationPanel.java program that the image is animated. What is different about this program that causes the spritesheet to be animated rather than loaded all at once as it was in part 12d?</text:span></text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P13">13. Now compile and run the MultispeciesContinuousSimulation.java program. Notice that there are now 3 graphs for 3 separate creature populations. Play around with the initial values and notice how the graph changes. <text:span text:style-name="T12">You can use the program MultispeciesSimulationUI.java to more easily manipulate and see the affects of the initial values. </text:span>Notice that each function grows exponentially until it starts hitting a limit. Also notice how they always converge and how adjusting the initial values of one organism sometimes has an unexpected affect on another organism as a result of some multi-step consequence that you can probably reason through intuitively.</text:p>
+   <text:p text:style-name="P13"><text:s text:c="4"/>a. If this program is graphing continuous equations, why is it not using integration and differentiation to get its values? What is it using instead?<text:line-break/> <text:s text:c="3"/>b. Based on your reading of the overview documentation handed out with the lab, what does each initial value represent in the simulation?</text:p>
+   <text:p text:style-name="P13"><text:s text:c="5"/>c. Why are the curves so smooth?</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P14">14. <text:span text:style-name="T12">Run the program CarrotRabbitSimulation.java. Watch the graph over several iterations of carrot re-population. <text:line-break/> <text:s text:c="3"/>a. In this continuous agentic simulation, what is the main limiting factor on the maximum size of the rabbit population?<text:line-break/> <text:s text:c="3"/>b. Does this simulation more closely follow the discrete or continuous logistic map? Why?</text:span></text:p>
+   <text:p text:style-name="P13"><text:s text:c="4"/><text:span text:style-name="T12">c. How often does the carrot population re-populate and what is the maximum number of carrots?<text:line-break/> <text:s text:c="3"/>d. Adjust the frequency of the carrot repopulation so that it happens every second or so. Watch the graph again. Does it now more closely match the discrete or continuous logistic map function?</text:span></text:p>
+   <text:p text:style-name="P13"><text:s text:c="4"/><text:span text:style-name="T8">e. Notice that there is an artificial factor named maxPop in the program limiting the rabbit population. Comment out this formula and set the variable to a really high number that the population would never reach given the number of carrots. Run the simulation again with a high number of carrots (200-ish) and a very short carrot repopulation time. Does the simulation cause the rabbit population to converge, change chaotically, tend to infinity, or go extinct? Why?</text:span></text:p>
+   <text:p text:style-name="P13"><text:s text:c="4"/><text:span text:style-name="T8">f. Do the same with the program ArcadeEcosystemSimulation.java and see if you can adjust the parameters similarly to match the continuous counterpart to the logistic map function for the multispecies graphs. See how closely you can get the agentic simulation to match the predictions of the graphs in the program MultispeciesSimulationUI.java. What values minimized the difference between the two simulations?<text:line-break/></text:span></text:p>
+   <text:p text:style-name="P15">15. Refactor the code in<text:span text:style-name="T4"> ArcadeGame.java </text:span>program so that you have a project inside your lab directory in your repo with the following class files:<text:span text:style-name="T13"><text:line-break/> <text:s text:c="3"/>a. </text:span><text:span text:style-name="T14">InputHandler.</text:span><text:span text:style-name="T15">java</text:span></text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>b<text:span text:style-name="T16">. </text:span><text:span text:style-name="T4">Wolf.</text:span><text:span text:style-name="T15">java</text:span></text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>c. <text:span text:style-name="T4">Carrot.</text:span><text:span text:style-name="T15">java</text:span></text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>d. <text:span text:style-name="T4">Rabbit.</text:span><text:span text:style-name="T15">java</text:span></text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>e.<text:span text:style-name="T4"> Ecosystem.</text:span><text:span text:style-name="T15">java</text:span></text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/><text:span text:style-name="T8">f. A</text:span>dd a fourth creature named Fungus that eats wolves and carrots</text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T17"><text:s text:c="4"/></text:span><text:span text:style-name="T8">g. G</text:span><text:span text:style-name="T17">ive the wolves and rabb</text:span><text:span text:style-name="T18">i</text:span><text:span text:style-name="T17">ts spritesheets that animate</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>

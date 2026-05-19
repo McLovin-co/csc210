@@ -1,0 +1,136 @@
+{
+  "world": {
+    "width": 4,
+    "height": 4
+  },
+  "tiles": [
+    {
+      "row": 0, "col": 0,
+      "water": 80, "temperature": 15, "nutrients": 70,
+      "creatures": [
+        { "type": "Tree",   "species": "Oak",     "name": "OldOak" },
+        { "type": "Bird",   "species": "Robin",   "name": "Robin1" }
+      ]
+    },
+    {
+      "row": 0, "col": 1,
+      "water": 60, "temperature": 18, "nutrients": 55,
+      "creatures": [
+        { "type": "Shrub",  "species": "RoseHip", "name": "RoseHip1" },
+        { "type": "Mammal", "species": "Rabbit",  "name": "Bunny" }
+      ]
+    },
+    {
+      "row": 0, "col": 2,
+      "water": 90, "temperature": 12, "nutrients": 40,
+      "creatures": [
+        { "type": "Moss",   "species": "PeatMoss","name": "Patch1" },
+        { "type": "Fish",   "species": "Trout",   "name": "Trout1" }
+      ]
+    },
+    {
+      "row": 0, "col": 3,
+      "water": 50, "temperature": 20, "nutrients": 60,
+      "creatures": [
+        { "type": "Tree",   "species": "Maple",   "name": "BigMaple" },
+        { "type": "Mammal", "species": "Deer",    "name": "Deer1" }
+      ]
+    },
+    {
+      "row": 1, "col": 0,
+      "water": 75, "temperature": 10, "nutrients": 50,
+      "creatures": [
+        { "type": "Tree",   "species": "Pine",    "name": "PineTree1" },
+        { "type": "Bird",   "species": "Hawk",    "name": "Hawk1" }
+      ]
+    },
+    {
+      "row": 1, "col": 1,
+      "water": 45, "temperature": 22, "nutrients": 80,
+      "creatures": [
+        { "type": "Shrub",  "species": "Blackberry", "name": "BerryBush1" },
+        { "type": "Mammal", "species": "Wolf",    "name": "Wolf1" }
+      ]
+    },
+    {
+      "row": 1, "col": 2,
+      "water": 85, "temperature": 8,  "nutrients": 30,
+      "creatures": [
+        { "type": "Moss",   "species": "RockMoss","name": "RockMoss1" },
+        { "type": "Fish",   "species": "Salmon",  "name": "Salmon1" }
+      ]
+    },
+    {
+      "row": 1, "col": 3,
+      "water": 55, "temperature": 17, "nutrients": 65,
+      "creatures": [
+        { "type": "Shrub",  "species": "HoneySuckle", "name": "Vine1" },
+        { "type": "Bird",   "species": "Robin",   "name": "Robin2" }
+      ]
+    },
+    {
+      "row": 2, "col": 0,
+      "water": 70, "temperature": 14, "nutrients": 55,
+      "creatures": [
+        { "type": "Tree",   "species": "Oak",     "name": "YoungOak" },
+        { "type": "Mammal", "species": "Rabbit",  "name": "Bunny2" }
+      ]
+    },
+    {
+      "row": 2, "col": 1,
+      "water": 88, "temperature": 11, "nutrients": 45,
+      "creatures": [
+        { "type": "Moss",   "species": "SpagMoss","name": "SpagPatch" },
+        { "type": "Fish",   "species": "Catfish", "name": "Catfish1" }
+      ]
+    },
+    {
+      "row": 2, "col": 2,
+      "water": 40, "temperature": 25, "nutrients": 75,
+      "creatures": [
+        { "type": "Shrub",  "species": "RoseHip", "name": "RoseHip2" },
+        { "type": "Mammal", "species": "Deer",    "name": "Deer2" }
+      ]
+    },
+    {
+      "row": 2, "col": 3,
+      "water": 65, "temperature": 16, "nutrients": 60,
+      "creatures": [
+        { "type": "Tree",   "species": "Maple",   "name": "Maple2" },
+        { "type": "Bird",   "species": "Hawk",    "name": "Hawk2" }
+      ]
+    },
+    {
+      "row": 3, "col": 0,
+      "water": 50, "temperature": 19, "nutrients": 70,
+      "creatures": [
+        { "type": "Shrub",  "species": "Blackberry", "name": "BerryBush2" },
+        { "type": "Mammal", "species": "Wolf",    "name": "Wolf2" }
+      ]
+    },
+    {
+      "row": 3, "col": 1,
+      "water": 78, "temperature": 13, "nutrients": 50,
+      "creatures": [
+        { "type": "Moss",   "species": "PeatMoss","name": "Patch2" },
+        { "type": "Bird",   "species": "Penguin", "name": "Penny" }
+      ]
+    },
+    {
+      "row": 3, "col": 2,
+      "water": 82, "temperature": 9,  "nutrients": 35,
+      "creatures": [
+        { "type": "Tree",   "species": "Pine",    "name": "PineTree2" },
+        { "type": "Fish",   "species": "Trout",   "name": "Trout2" }
+      ]
+    },
+    {
+      "row": 3, "col": 3,
+      "water": 60, "temperature": 21, "nutrients": 65,
+      "creatures": [
+        { "type": "Shrub",  "species": "HoneySuckle", "name": "Vine2" },
+        { "type": "Mammal", "species": "Rabbit",  "name": "Bunny3" }
+      ]
+    }
+  ]
+}

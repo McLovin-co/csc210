@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Bash(javac BombermanGame.java)",
+      "Bash(java OptionsScreen)",
+      "Bash(kill %1)",
+      "Bash(javac *.java)"
+    ]
+  }
+}
